@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppMessageBus", "AppMessageBus\AppMessageBus.csproj", "{735B9609-0067-4FE3-BAA0-8DA8BD5F9215}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{15ED17D9-BE81-4A00-8B92-AAC7273612E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{735B9609-0067-4FE3-BAA0-8DA8BD5F9215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{735B9609-0067-4FE3-BAA0-8DA8BD5F9215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{735B9609-0067-4FE3-BAA0-8DA8BD5F9215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{735B9609-0067-4FE3-BAA0-8DA8BD5F9215}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15ED17D9-BE81-4A00-8B92-AAC7273612E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15ED17D9-BE81-4A00-8B92-AAC7273612E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15ED17D9-BE81-4A00-8B92-AAC7273612E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15ED17D9-BE81-4A00-8B92-AAC7273612E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
